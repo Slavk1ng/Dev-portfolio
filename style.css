@@ -1,6 +1,9 @@
 h2 {font-family: 'Tangerine', serif;
         font-size: 48px;
 }
+.css-selector {
+font-family: 'Tangerine', serif;
+}
 .bd-placeholder-img {
         font-size: 1.125rem;
         text-anchor: middle;
